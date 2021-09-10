@@ -1,0 +1,17 @@
+F:\VisualStudio\StudentApplication\StudentApplication\obj\Debug\netcoreapp2.1\StudentApplication.csprojAssemblyReference.cache
+F:\VisualStudio\StudentApplication\StudentApplication\obj\Debug\netcoreapp2.1\StudentApplication.AssemblyInfoInputs.cache
+F:\VisualStudio\StudentApplication\StudentApplication\obj\Debug\netcoreapp2.1\StudentApplication.AssemblyInfo.cs
+F:\VisualStudio\StudentApplication\StudentApplication\obj\Debug\netcoreapp2.1\StudentApplication.RazorAssemblyInfo.cache
+F:\VisualStudio\StudentApplication\StudentApplication\obj\Debug\netcoreapp2.1\StudentApplication.RazorAssemblyInfo.cs
+F:\VisualStudio\StudentApplication\StudentApplication\bin\Debug\netcoreapp2.1\appsettings.Development.json
+F:\VisualStudio\StudentApplication\StudentApplication\bin\Debug\netcoreapp2.1\appsettings.json
+F:\VisualStudio\StudentApplication\StudentApplication\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+F:\VisualStudio\StudentApplication\StudentApplication\bin\Debug\netcoreapp2.1\StudentApplication.deps.json
+F:\VisualStudio\StudentApplication\StudentApplication\bin\Debug\netcoreapp2.1\StudentApplication.runtimeconfig.json
+F:\VisualStudio\StudentApplication\StudentApplication\bin\Debug\netcoreapp2.1\StudentApplication.runtimeconfig.dev.json
+F:\VisualStudio\StudentApplication\StudentApplication\bin\Debug\netcoreapp2.1\StudentApplication.dll
+F:\VisualStudio\StudentApplication\StudentApplication\obj\Debug\netcoreapp2.1\StudentApplication.RazorTargetAssemblyInfo.cache
+F:\VisualStudio\StudentApplication\StudentApplication\obj\Debug\netcoreapp2.1\StudentApplication.genruntimeconfig.cache
+F:\VisualStudio\StudentApplication\StudentApplication\bin\Debug\netcoreapp2.1\StudentApplication.pdb
+F:\VisualStudio\StudentApplication\StudentApplication\obj\Debug\netcoreapp2.1\StudentApplication.dll
+F:\VisualStudio\StudentApplication\StudentApplication\obj\Debug\netcoreapp2.1\StudentApplication.pdb
